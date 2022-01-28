@@ -3,6 +3,6 @@
   "type": "date",
   "format": "%b-%Y"
 }, {
-  "name": "Interest Rate",
+  "name": "CPI",
   "type": "number"
 }]
